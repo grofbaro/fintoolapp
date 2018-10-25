@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>876767605110-a0qjcvvelqldokv20vd6p1j12lnig2gr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.876767605110-a0qjcvvelqldokv20vd6p1j12lnig2gr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQQoXqToEj4PFSu5_sgCD7_JgbXQjEoRQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>876767605110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fintoolapp.app</string>
+	<key>PROJECT_ID</key>
+	<string>fintool-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fintool-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:876767605110:ios:93f30ada445496d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://fintool-app.firebaseio.com</string>
+</dict>
+</plist>
